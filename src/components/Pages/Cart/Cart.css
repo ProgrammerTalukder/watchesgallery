@@ -1,0 +1,10 @@
+.cartimg{
+    width: 90px;
+    height: 90px;
+}
+@media screen and (max-width:600px){
+    cartimg{
+        width: 30px;
+        height: 30px;
+    }
+}
